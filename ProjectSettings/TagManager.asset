@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - nonFirstLevel
+  - nonFinalLevel
+  - CaveGenerator
+  - RoomGenerator
+  - levelData
+  - RemovableObject
+  - Floor
+  - Wall
+  - Enemy
+  - Trap
+  - Collectable
+  - Essentials
+  - AmbientManager
+  - MiniMapCam
+  - SpriteManager
+  - Inventory
+  - InventorySlot
+  - ProgressManager
+  - Equipment
+  - EquipmentSlot
+  - DeathScreen
+  - ScreenOverlay
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Inventory
+  - Floor
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
