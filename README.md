@@ -16,3 +16,4 @@ Game Features:
 This Game is missing a large ammount of polish, including Animations and Post Processing, contains many evident bugs, and is an unfinished product.
 This project is planned to be continued should Unity remain a viable Engine of choice once finishing academic obligations.
 
+This project has been Archived for data protection reasons
